@@ -1,0 +1,2 @@
+npm init -y
+npm i express lowdb morgan nanoid cors swagger-jsdoc swagger-ui-express nodemon
